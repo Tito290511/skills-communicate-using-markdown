@@ -11,3 +11,7 @@ Aprendi a modificar files desde un pull request, y a poner titulos.
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
